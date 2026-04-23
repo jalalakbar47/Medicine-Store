@@ -1,6 +1,17 @@
 # 💊 PharmaCare - Medicine Store Management System
 
-PharmaCare is a professional, high-performance Pharmacy Management System designed to streamline inventory tracking, sales processing (POS), and business analytics. Built with Core PHP and MySQL, it offers a premium user experience with a focus on security and proactive inventory management.
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**A professional, high-performance Pharmacy Management System designed to streamline inventory tracking, sales processing (POS), and business analytics.**
+
+</div>
+
+---
 
 ![Main Dashboard](screenshots/dashboard.png)
 
