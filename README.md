@@ -88,9 +88,7 @@ Place your screenshots in the `/screenshots` folder using the exact names below:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
-
 This project is open-source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author & Dedication
 Created with ❤️ by [jalalakbar47](https://github.com/jalalakbar47)
-
 > **Dedicated To My ❤️ J/S — My Inspiration.**
