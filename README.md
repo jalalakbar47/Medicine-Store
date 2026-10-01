@@ -2,10 +2,18 @@
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-Standard-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Chart.js](https://img.shields.io/badge/Charts-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+
+[![GitHub stars](https://img.shields.io/github/stars/jalalakbar47/Medicine-Store?style=for-the-badge&logo=github)](https://github.com/jalalakbar47/Medicine-Store/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jalalakbar47/Medicine-Store?style=for-the-badge&logo=github)](https://github.com/jalalakbar47/Medicine-Store/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/jalalakbar47/Medicine-Store?style=for-the-badge&logo=github)](https://github.com/jalalakbar47/Medicine-Store/issues)
+[![Last commit](https://img.shields.io/github/last-commit/jalalakbar47/Medicine-Store?style=for-the-badge&logo=git)](https://github.com/jalalakbar47/Medicine-Store/commits/main)
 
 **A professional, high-performance Pharmacy Management System designed to streamline inventory tracking, sales processing (POS), and business analytics.**
 
